@@ -1,6 +1,4 @@
 '''
-    IMAGE SEGMENTATION USING K-MEANS (UNSUPERVISED LEARNING)
-    AUTHOR Paul Asselin
 
     command line arguments:
 		python imageSegmentation.py K inputImageFilename outputImageFilename
